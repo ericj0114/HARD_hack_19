@@ -2,14 +2,14 @@
 Repo for UCSD HARD hack 2019 
 
 # Members
-Michael Chen
-Jasmine Ng
-Miguel Verano
+Michael Chen  
+Jasmine Ng  
+Miguel Verano  
 Eric Jiang
 
 # Tools used
-Dragonboard 410C
-Audio Mezzanine Board
-IR Receiver Diode
-C270 Logitech HD Webcam
+Dragonboard 410C  
+Audio Mezzanine Board  
+IR Receiver Diode  
+C270 Logitech HD Webcam  
 and more
